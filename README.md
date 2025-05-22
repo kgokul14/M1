@@ -1,4 +1,5 @@
-
+# NAME :GOKUL K
+# REG NO:212224060083
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
@@ -11,7 +12,12 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 ## PROGRAM:
 
+![WhatsApp Image 2025-04-28 at 01 35 09_441edf70](https://github.com/user-attachments/assets/b085e6ae-63a7-48bd-ab5b-b85990b7b228)
+
 ## OUTPUT:
+
+![WhatsApp Image 2025-04-28 at 02 27 15_63b46a17](https://github.com/user-attachments/assets/f972c5e1-6111-467f-b79a-ed456f97271f)
+
 
 
 
@@ -47,17 +53,12 @@ Write a C program to read A values and check whether A is positive number or not
 
 # PROGRAM:
 
+#include <stdio.h>
+int main(){
+![WhatsApp Image 2025-04-28 at 01 35 12_c66388e0](https://github.com/user-attachments/assets/a678af9c-70d1-4bec-9d7c-f8ca9920f3bc)
+
 # OUTPUT:
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2025-04-28 at 02 29 47_fcceb8a0](https://github.com/user-attachments/assets/5af36853-ccf9-41f2-9e92-117d74fe76ac)
 
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
@@ -80,16 +81,10 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+![WhatsApp Image 2025-04-28 at 01 35 14_3578daec](https://github.com/user-attachments/assets/5c8b6f1b-546d-446c-bdd8-75019a9ec69e)
 
 ## OUTPUT:
-
-
-
-
-
-
-
-
+![WhatsApp Image 2025-04-28 at 02 31 17_44509f32](https://github.com/user-attachments/assets/6e84d244-ba1a-43cb-99e6-74eadb615d54)
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -111,18 +106,12 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+![WhatsApp Image 2025-04-28 at 01 35 10_b35e424e](https://github.com/user-attachments/assets/a74e2db8-878f-4a6e-9177-e955d12da06f)
+
 
 ## OUTPUT:
 
-
-
-
-
-
-
-
-
-	
+![WhatsApp Image 2025-04-28 at 02 33 35_574d5a5a](https://github.com/user-attachments/assets/c4ab3091-7806-4fbf-99ee-ab2426918d17)
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -147,9 +136,12 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+![WhatsApp Image 2025-04-28 at 01 35 14_206465fa](https://github.com/user-attachments/assets/76705f90-5bbb-449d-acf6-fbbdbb1ffbcd)
 
 ## OUTPUT:
 
+![WhatsApp Image 2025-04-28 at 01 37 31_ef112dec](https://github.com/user-attachments/assets/03a92651-a9a9-48d7-965a-c8bec5fed4fd)
+
+
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
-
